@@ -1,0 +1,90 @@
+{
+    "name": "PlayerInputActions",
+    "maps": [
+        {
+            "name": "Walk",
+            "id": "783cefc1-caa3-4d72-81aa-438fd8321438",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "a1d2e8a0-e05b-49d7-9aa3-7a4bd3303a3f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "27f17112-3de2-4f07-8097-6e1cb1ffb021",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Car",
+            "id": "4ac8c4f9-1f9b-4786-9867-712f6df49200",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "91640146-7544-48ff-888b-cefade6f1b74",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3439244e-40b9-4efd-a72b-e3e6ca109bd4",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Pause Menu",
+            "id": "4800457e-a10e-4a30-b078-9914a6d70808",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "680bc951-2c2b-4705-b74a-2f07e77dcc61",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c09c035e-3591-4566-bc08-89a3237483f2",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
