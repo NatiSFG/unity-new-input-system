@@ -112,7 +112,7 @@ public partial class @NinjaInputActions: IInputActionCollection2, IDisposable
                 {
                     ""name"": ""binding"",
                     ""id"": ""b264d431-f88f-44ff-bd18-5d658cc43ae8"",
-                    ""path"": ""<Keyboard>/d"",
+                    ""path"": ""<Keyboard>/g"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
