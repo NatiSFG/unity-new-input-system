@@ -1,0 +1,34 @@
+{
+    "name": "ColorInputAsset",
+    "maps": [
+        {
+            "name": "Color",
+            "id": "8e0cdfbc-7633-4589-85c7-9b3a6f30dd5c",
+            "actions": [
+                {
+                    "name": "Random Color",
+                    "type": "Button",
+                    "id": "4b3d34c3-0ffb-4cad-b4c5-8666540cc64a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b1696a3e-69b3-4144-8255-8c62240f5f09",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Random Color",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
