@@ -1,0 +1,34 @@
+{
+    "name": "BounceInputAsset",
+    "maps": [
+        {
+            "name": "Ball",
+            "id": "d457799b-af11-464d-bc37-324faed1ef1b",
+            "actions": [
+                {
+                    "name": "Bounce",
+                    "type": "Button",
+                    "id": "3df687f1-ea15-490b-9240-f3f1781fa43c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Hold(duration=1)",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f8302480-5fa6-45b4-baf0-b20f2999995e",
+                    "path": "<Keyboard>/b",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Bounce",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
