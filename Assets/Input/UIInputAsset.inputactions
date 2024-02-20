@@ -1,29 +1,29 @@
 {
-    "name": "BounceInputAsset",
+    "name": "UIInputAsset",
     "maps": [
         {
-            "name": "Ball",
-            "id": "d457799b-af11-464d-bc37-324faed1ef1b",
+            "name": "UI",
+            "id": "73ebb710-1142-43ce-b3ed-f305d9f335b6",
             "actions": [
                 {
-                    "name": "Bounce",
+                    "name": "Charge Bar",
                     "type": "Button",
-                    "id": "3df687f1-ea15-490b-9240-f3f1781fa43c",
+                    "id": "5e2ff36f-001d-4725-94e5-f197c056e57c",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": "Hold(duration=1)",
-                    "initialStateCheck": true
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
                 {
                     "name": "",
-                    "id": "f8302480-5fa6-45b4-baf0-b20f2999995e",
-                    "path": "<Keyboard>/b",
-                    "interactions": "",
+                    "id": "4059178b-5f8e-43d6-8d4e-0edf5d678001",
+                    "path": "<Keyboard>/space",
+                    "interactions": "Hold",
                     "processors": "",
                     "groups": "",
-                    "action": "Bounce",
+                    "action": "Charge Bar",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
