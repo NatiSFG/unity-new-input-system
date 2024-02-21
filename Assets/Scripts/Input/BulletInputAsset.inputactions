@@ -1,0 +1,34 @@
+{
+    "name": "BulletInputAsset",
+    "maps": [
+        {
+            "name": "Bullet",
+            "id": "786d74c8-30d3-4b5d-b264-be8768c03323",
+            "actions": [
+                {
+                    "name": "Shoot",
+                    "type": "Button",
+                    "id": "ed053cbc-ef24-4a1c-90ff-cd6cdff6466e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "06e6e1dc-a208-4bbc-9960-b43eaca0d4aa",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shoot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
